@@ -1,0 +1,10 @@
+﻿fastapi
+gunicorn
+numpy
+pydantic
+scikit-learn==1.4.1.post1
+scipy
+torch
+uvicorn
+pandas
+python-multipart==0.0.5

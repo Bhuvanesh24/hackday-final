@@ -1,0 +1,11 @@
+django 
+uvicorn 
+django-cors-headers 
+django-extensions 
+pandas 
+numpy
+scipy 
+gunicorn 
+requests
+scikit-learn 
+psycopg2 

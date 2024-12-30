@@ -1,0 +1,345 @@
+[
+    {
+      "name": "Srisailam Project (N.S.R.S.P)",
+      "title": "Srisailam Reservoir",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.8971772, 16.0861287]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP01VH0059",
+      "latitude": "16o 05' 13\"",
+      "longitude": "78o 53' 47\"",
+      "height": 145,
+      "type": "Dam",
+      "dam_incharge": "Chief Engineer, Projects, Kurnool, Water Resources Department (CE WRD KURNOOL)",
+      "district": "Kurnool",
+      "gross_storage": 8722,
+      "live_storage": 4250,
+      "commissioning_date": 1984,
+      "purpose": "Irrigation"
+    },
+    {
+      "name": "Nagarjuna Sagar Tail Pond",
+      "title": "Nagarjuna Sagar",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.3124022, 16.5759672]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP168HH0183",
+      "latitude": "16o 37' 40\"",
+      "longitude": "79o 29' 20\"",
+      "height": 38.4,
+      "type": "Dam",
+      "dam_incharge": "Andhra Pradesh Power Generation Corporation",
+      "district": "Guntur",
+      "gross_storage": 200.48,
+      "live_storage": 29.55,
+      "commissioning_date": 2006,
+      "purpose": "Hydropower"
+    },
+    {
+      "name": "Pulichintala Project",
+      "title": "PULICHINTHALA PROJECT",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.05666699999999, 16.770833]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP01HH0142",
+      "latitude": "16o 46' 15\"",
+      "longitude": "80o 03' 24\"",
+      "height": 37.24,
+      "type": "Dam",
+      "dam_incharge": "Chief Engineer, KDS, Vijayawada, Water Resources Department",
+      "district": "",
+      "gross_storage": 1295.29,
+      "live_storage": 1047.67,
+      "commissioning_date": 2004,
+      "purpose": "Irrigation"
+    },
+    {
+      "name": "Prakasam Barrage",
+      "title": "PRAKASAM BARRAGE",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.603335, 16.5020777]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP01MH0009",
+      "latitude": "16o 30' 27\"",
+      "longitude": "80o 36' 19\"",
+      "height": 22.25,
+      "type": "Dam",
+      "dam_incharge": "Chief Engineer, KDS, Vijayawada, Water Resources Department",
+      "district": "",
+      "gross_storage": 0.087,
+      "live_storage": 0.087,
+      "commissioning_date": 1957,
+      "purpose": "Irrigation"
+    },
+    {
+      "name": "Yeleru Reservoir",
+      "title": "YELERU RESERVOIR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.06795199999999, 17.3281998]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP01HH0149",
+      "latitude": "17o 18' 42\"",
+      "longitude": "82o 04' 04\"",
+      "height": 43,
+      "type": "Dam",
+      "dam_incharge": "Chief Engineer, GDS, Dowlaiswaram, Water Resources Department",
+      "district": "",
+      "gross_storage": 682.7,
+      "live_storage": 508.3,
+      "commissioning_date": 1991,
+      "purpose": "Irrigation"
+    },
+    {
+      "name": "Thandava",
+      "title": "TANDAVA RESERVOIR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.45902819999999, 17.6489319]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP01HH0043",
+      "latitude": "17o 37' 17\"",
+      "longitude": "82o 27' 42\"",
+      "height": 33,
+      "type": "Dam",
+      "dam_incharge": "Chief Engineer, North Coast, Visakhapatnam, Water Resources Department",
+      "district": "",
+      "gross_storage": 14.045,
+      "live_storage": 124.69,
+      "commissioning_date": 1977,
+      "purpose": "Irrigation"
+    },
+    {
+      "name": "Somasila Reservoir",
+      "title": "SOMASILA RESERVOIR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.2112769, 14.4909383]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP01HH0062",
+      "latitude": "14o 29' 29\"",
+      "longitude": "79o 12' 40\"",
+      "height": 39,
+      "type": "Dam",
+      "dam_incharge": "Chief Engineer, NTR TGP, Tirupati, Water Resources Department",
+      "district": "Sri Potti Sriramulu Nellore",
+      "gross_storage": 2208.37,
+      "live_storage": 1994.1,
+      "commissioning_date": 1989,
+      "purpose": "Irrigation"
+    },
+    {
+      "name": "Kandaleru Balancing Reservoir",
+      "title": "KANDALERU RESERVOIR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.59405439999999, 14.347401]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP01HH0133",
+      "latitude": "14o 20' 32\"",
+      "longitude": "79o 35' 32\"",
+      "height": 49,
+      "type": "Dam",
+      "dam_incharge": "Chief Engineer, NTR TGP, Tirupati, Water Resources Department",
+      "district": "",
+      "gross_storage": 1926,
+      "live_storage": 1688,
+      "commissioning_date": 1996,
+      "purpose": "Irrigation"
+    },
+    {
+      "name": "Gandikota Reservoir (Sri Yeddula Eshwar Reddy Reservoir)",
+      "title": "GANDIKOTA RESERVOIR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.2347984, 14.8007239]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP612MH0178",
+      "latitude": "14o 48' 15\"",
+      "longitude": "78o 13' 57\"",
+      "height": 25,
+      "type": "Dam",
+      "dam_incharge": "Chief Engineer, Projects, Kadapa, Water Resources Department",
+      "district": "Y.S.R",
+      "gross_storage": 760.31,
+      "live_storage": 689.571,
+      "commissioning_date": 2013,
+      "purpose": "Irrigation"
+    },
+    {
+      "name": "Paidipalem Reservoir (Sri Chavva BalReddy Paidipalem Reservoir)",
+      "title": "PAIDIPALEM BALANCING RESERVOIR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [78.18822929661161, 14.704008620826855]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP612HH0179",
+      "latitude": "14o 42' 10\"",
+      "longitude": "78o 11' 17\"",
+      "height": 42.52,
+      "type": "Dam",
+      "dam_incharge": "Chief Engineer, Projects, Kadapa, Water Resources Department",
+      "district": "Y.S.R",
+      "gross_storage": 169.9,
+      "live_storage": 164.42,
+      "commissioning_date": 2017,
+      "purpose": "Irrigation"
+    },
+    {
+        "title": "GUNDLAKAMMA RESERVOIR",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                79.9822126,
+                15.6879212
+            ]
+        },
+        "PIC": "AP01MH0156",
+      "latitude": "15° 40' 56\"",
+      "longitude": "79° 58' 25\"",
+      "height": "23.34 Meters",
+      "type_of_dam": "Dam",
+      "dam_incharge": "Chief Engineer, Projects, Ongole, Water Resources Department",
+      "gross_storage": "109 MCM",
+      "live_storage": "69 MCM",
+      "commissioning_date": "2013",
+      "purpose": "Irrigation"
+    },
+    {
+        "title": "GOTTA BARRAGE",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                83.962147,
+                18.6887708
+            ]
+        },
+        "PIC": "AP01MH0164",
+      "latitude": "18° 41' 19.68\"",
+      "longitude": "83° 57' 43.56\"",
+      "height": "20.42 Meters",
+      "type_of_dam": "Dam",
+      "dam_incharge": "Chief Engineer, North Coast, Visakhapatnam, Water Resources Department",
+      "gross_storage": "17.329 MCM",
+      "live_storage": "17.27 MCM",
+      "commissioning_date": "1977",
+      "purpose": "Irrigation"
+    },
+    {
+        "title": "VELOGODU BALANCING RESERVOIR",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78.6171753,
+                15.7349984
+            ]
+        },
+        "PIC": "AP01MH0150",
+        "latitude": "15° 43' 27\"",
+        "longitude": "78° 35' 27\"",
+        "height": "28 Meters",
+        "type_of_dam": "Dam",
+        "dam_incharge": "Chief Engineer, Projects, Kurnool, Water Resources Department",
+        "district": "Nandyal",
+        "gross_storage": "16.95 MCM",
+        "live_storage": "16.905 MCM",
+        "commissioning_date": "1996",
+        "purpose": "Irrigation"
+    },
+    {
+        "title": "CHITRAVATI BALANCING RESERVOIR",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                77.948165,
+                14.5465668
+            ]
+        },
+        "PIC": "AP01HH0160",
+      "latitude": "14° 33' 37\"",
+      "longitude": "77° 57' 37\"",
+      "height": "36.5 Meters",
+      "type_of_dam": "Dam",
+      "dam_incharge": "Chief Engineer, Projects, Kadapa, Water Resources Department",
+      "district": "Y.S.R",
+      "gross_storage": "289.636 MCM",
+      "live_storage": "288.39 MCM",
+      "commissioning_date": "2008",
+      "purpose": "Irrigation"
+    },
+    {
+        "title": "MYLAVARAM(PENNAR) RESERVOIR",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                80.6414006,
+                16.7560489
+            ]
+        },
+        "PIC": "AP01MH0058",
+      "latitude": "14° 50' 58\"",
+      "longitude": "78° 20' 27\"",
+      "height": "24 Meters",
+      "type_of_dam": "Dam",
+      "dam_incharge": "Chief Engineer, Projects, Kadapa, Water Resources Department",
+      "gross_storage": "283 MCM",
+      "live_storage": "265 MCM",
+      "commissioning_date": "1983",
+      "purpose": "Irrigation"
+    },
+    {
+        "title": "ALAGANURU BALANCING RESERVOIR",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78.401286,
+                15.7119964
+            ]
+        },
+        "PIC": "AP01MH0154",
+      "latitude": "15° 42' 58\"",
+      "longitude": "78° 24' 59\"",
+      "height": "22 Meters",
+      "type_of_dam": "Dam",
+      "dam_incharge": "Chief Engineer, Projects, Kurnool, Water Resources Department",
+      "gross_storage": "84 MCM",
+      "live_storage": "84 MCM",
+      "commissioning_date": "2004",
+      "purpose": "Irrigation"
+    },
+    {
+      "name": "Penna Ahobilam (Dr. K.S.P.A.B.R.)",
+      "title": "PENNA AHOBILAM BALANCING RESERVOIR",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.3058772, 14.860553]
+      },
+      "state": "Andhra Pradesh",
+      "PIC": "AP01HH0141",
+      "latitude": "14o 47' 25\"",
+      "longitude": "77o 17' 56\"",
+      "height": 46,
+      "type": "Dam",
+      "dam_incharge": "Chief Engineer, Projects, Anantapur, Water Resources Department",
+      "district": "Ananthapuramu",
+      "gross_storage": 314,
+      "live_storage": 305,
+      "commissioning_date": 1978,
+      "purpose": "Water Supply"
+    }
+  ]
+  
